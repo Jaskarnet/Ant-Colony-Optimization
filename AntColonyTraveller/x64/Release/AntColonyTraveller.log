@@ -1,0 +1,13 @@
+﻿  AntColonyTraveller.cpp
+C:\Users\Jaska\Desktop\AntColonyTraveller\AntColonyTraveller\AntColonyTraveller.cpp(103,1): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\Jaska\Desktop\AntColonyTraveller\AntColonyTraveller\AntColonyTraveller.cpp(424,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Jaska\Desktop\AntColonyTraveller\AntColonyTraveller\AdjacencyMatrix.h(149,41): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jaska\Desktop\AntColonyTraveller\AntColonyTraveller\AdjacencyMatrix.h(129): message : podczas kompilowania funkcji składowej „adjacencyMatrix<unsigned int> *adjacencyMatrix<unsigned int>::file_read_graphDirected(std::string)” klasy klasa szablon
+C:\Users\Jaska\Desktop\AntColonyTraveller\AntColonyTraveller\AntColonyTraveller.cpp(433): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „adjacencyMatrix<unsigned int> *adjacencyMatrix<unsigned int>::file_read_graphDirected(std::string)” funkcji szablon
+C:\Users\Jaska\Desktop\AntColonyTraveller\AntColonyTraveller\AntColonyTraveller.cpp(70): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „adjacencyMatrix<unsigned int>” klasy klasa szablon
+  Trwa generowanie kodu
+  15 of 1235 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    37 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  AntColonyTraveller.vcxproj -> C:\Users\Jaska\Desktop\AntColonyTraveller\x64\Release\AntColonyTraveller.exe

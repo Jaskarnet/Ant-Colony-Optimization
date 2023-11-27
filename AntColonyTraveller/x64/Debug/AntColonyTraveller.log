@@ -1,0 +1,9 @@
+﻿  AntColonyTraveller.cpp
+C:\Users\Jaska\Desktop\AntColonyTraveller\AntColonyTraveller\AntColonyTraveller.cpp(100,1): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\Jaska\Desktop\AntColonyTraveller\AntColonyTraveller\AntColonyTraveller.cpp(335,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Jaska\Desktop\AntColonyTraveller\AntColonyTraveller\AdjacencyMatrix.h(149,41): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jaska\Desktop\AntColonyTraveller\AntColonyTraveller\AdjacencyMatrix.h(129): message : podczas kompilowania funkcji składowej „adjacencyMatrix<unsigned int> *adjacencyMatrix<unsigned int>::file_read_graphDirected(std::string)” klasy klasa szablon
+C:\Users\Jaska\Desktop\AntColonyTraveller\AntColonyTraveller\AntColonyTraveller.cpp(344): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „adjacencyMatrix<unsigned int> *adjacencyMatrix<unsigned int>::file_read_graphDirected(std::string)” funkcji szablon
+C:\Users\Jaska\Desktop\AntColonyTraveller\AntColonyTraveller\AntColonyTraveller.cpp(67): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „adjacencyMatrix<unsigned int>” klasy klasa szablon
+C:\Users\Jaska\Desktop\AntColonyTraveller\AntColonyTraveller\AdjacencyMatrix.h(165): warning C4715: "adjacencyMatrix<unsigned int>::file_read_graphDirected”: niewszystkie ścieżki kodu zwracają wartość
+  AntColonyTraveller.vcxproj -> C:\Users\Jaska\Desktop\AntColonyTraveller\x64\Debug\AntColonyTraveller.exe
