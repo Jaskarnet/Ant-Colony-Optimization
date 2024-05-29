@@ -4,13 +4,13 @@ This repository contains an implementation of the Ant Colony Optimization (ACO) 
 
 ## Files Description
 
-### AntColonyTraveller.cpp
+### AntColonyTraveller/AntColonyTraveller.cpp
 
   - Implements the Ant Colony Optimization algorithm for solving the Traveling Salesman Problem.
   - Defines classes and functions for managing ants, updating pheromone trails, and finding the best solution.
   - Includes multithreading support for concurrent ant exploration.
 
-### AdjacencyMatrix.cpp
+### AntColonyTraveller/AdjacencyMatrix.cpp
 
   - Provides functionality for managing adjacency matrices.
   - Defines operations for displaying matrices, inserting values, and reading graph data from files.
